@@ -102,6 +102,7 @@ h1 {
 
 main {
     grid-area: main;
+    flex: 1;
     padding: 20px;
     margin-left: 0;
     transition: margin-left 0.3s ease;
